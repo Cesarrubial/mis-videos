@@ -1,0 +1,4 @@
+Tactile triangle protractor for blind users by Visio3DTeam on Thingiverse: https://www.thingiverse.com/thing:2857222
+
+Summary:
+Triangle protractor which can be used by blind users because of the tactile elements.With this model a blind person can measure or draw the same thing a sighted user can with a triangle protractor because of the tactile elements.you can:measure and draw 90 degree anglesmeasure and draw lines of 1 cm.measure and draw angles in steps of 10 degreesYou can find this model on https://tactiles.eu/3d-model/tactile-triangle-protractor-for-blind-users/ Tactile contains models designed specifically for people with vision impairment
